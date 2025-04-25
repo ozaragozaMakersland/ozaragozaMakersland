@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ozaragozaMakersland
 - 👀 I’m interested in microcontrollers
-- 🌱 I’m currently learning ESP32, Phyton and another lenguages
-- 💞️ I’m looking to collaborate on develop projects witch harsware
+- 🌱 I’m currently working on ESP32, Phyton and another lenguages
+- 💞️ I’m looking to collaborate on develop projects with hardware
 - 📫 How to reach me: ozaragoza.makersland@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
